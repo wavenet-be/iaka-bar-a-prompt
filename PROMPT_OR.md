@@ -1,5 +1,7 @@
 # 🏆 Le Prompt d'Or - Édition IAKA 2025
 
+Petit disclaimer : j'ai apprécié chaque prompt soumis car ils ont tous une bonne structure et font le boulot, et le choix a été difficile. Mais il faut un gagnant, j'ai donc fait "appel à un ami", et après analyse par notre jury IA, voici le prompt qui remporte le prestigieux Prompt d'Or 2025 !
+
 > *Et le gagnant est...*
 
 ---
