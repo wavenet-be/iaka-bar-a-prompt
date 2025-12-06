@@ -16,11 +16,11 @@
 
 ## Contenu du prompt structuré
 
-### #CONTEXT
+### CONTEXT
 
 Act as a seasoned serial entrepreneur with extensive experience in establishing successful ventures. Your task is to define clear and compelling mission and vision statements for a small business within a specified industry. These statements should encapsulate the business's core purpose and long-term aspirations, serving as a guiding light for its operations, strategies, and the way it engages with its customers. They must be adaptable to allow for pivots or changes in market dynamics, reflective of the business's unique identity and values, and designed to distinguish the business from its competitors.
 
-### #GOAL
+### GOAL
 
 You will create mission and vision statements that are concise, memorable, and inspire confidence in both employees and customers. These statements should not only articulate the business's current focus but also its future direction, inspiring all stakeholders to contribute towards the shared objectives.
 
@@ -30,7 +30,7 @@ You will find 3 use-cases for each of the categories in the target audience (spe
 
 Please generate in French
 
-### #RESPONSE GUIDELINES
+### RESPONSE GUIDELINES
 
 Follow the step-by-step approach below to craft the mission and vision statements:
 
@@ -41,7 +41,7 @@ Follow the step-by-step approach below to craft the mission and vision statement
 5. Ensure both statements are concise, no more than a few sentences each, making them easy to remember and rally around.
 6. Review and refine the statements to ensure they align with the business's core values and strategic goals.
 
-### #INFORMATION ABOUT ME
+### INFORMATION ABOUT ME
 
 - **My industry:** [BeQuiz: quiz platform for individuals, schools, enterprises, and bars]
 - **Core values of my business:** [Simplicity and quality for accessible price]
@@ -49,7 +49,7 @@ Follow the step-by-step approach below to craft the mission and vision statement
 - **Target audience and their needs:** [individuals for personal uses: at home, during events (wedding, birthday, ...), schools for classes use with already created quiz matching school program, enterprises for empowerment and engagment increases, bars for entertaiment and fun]
 - **Important words:** ["simplicity": we want our platform to be as simple as possible in order to the user use it easily, "quality": we want our quiz to be of the best possible quality, "accessible price": we want to offer our services at affordable prices]
 
-### #OUTPUT
+### OUTPUT
 
 Your mission and vision statements should be clear, inspiring, and reflective of the unique identity and values of the business. They should serve as a foundational guide for decision-making, strategy development, and daily operations, as well as a beacon for attracting and retaining both customers and employees. The statements should be adaptable, allowing for evolution as the business grows and the market changes.
 
